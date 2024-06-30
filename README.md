@@ -1,4 +1,8 @@
+## The interface
 ![image](https://github.com/rafaOrtega14/xplora-hotels-frontend/assets/17182691/88494da7-0d7f-4f04-aecc-cfad073c9996)
+
+## Disclaimer
+The application was build entirely for desktop devices responsive design will come in upcoming releases
 
 ## Available Scripts
 
