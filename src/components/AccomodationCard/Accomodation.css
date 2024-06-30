@@ -1,0 +1,92 @@
+.accommodation-card {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 50%;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 10px 0;
+    background-color: white;
+    position: relative;
+  }
+
+  .accommodation-card-room {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 40%;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin: 10px 0;
+    background-color: white;
+    position: relative;
+  }
+  
+  .accommodation-image {
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+  }
+  
+  .accommodation-details {
+    padding: 15px;
+    flex-grow: 1;
+  }
+  
+  .accommodation-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .accommodation-location,
+  .accommodation-room-type,
+  .accommodation-bed-type,
+  .accommodation-reviews {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
+  .accommodation-price-section {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .accommodation-original-price {
+    text-decoration: line-through;
+    color: #999;
+    margin-right: 10px;
+  }
+  
+  .accommodation-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #d9534f;
+  }
+  
+  .accommodation-button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    border-color: #007bff;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .accommodation-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .accommodation-rating {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
