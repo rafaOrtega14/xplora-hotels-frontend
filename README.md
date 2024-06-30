@@ -1,3 +1,5 @@
+![image](https://github.com/rafaOrtega14/xplora-hotels-frontend/assets/17182691/88494da7-0d7f-4f04-aecc-cfad073c9996)
+
 ## Available Scripts
 
 In the project directory, you can run:
